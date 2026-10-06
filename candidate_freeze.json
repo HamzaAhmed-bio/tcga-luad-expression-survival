@@ -1,0 +1,4 @@
+{
+  "sha256": "68b01058af7e0a71202a53db8e5c0786ea9e873e5779e339661f7b7ae9094987",
+  "rule": "v2 expression-only rule; frozen before survival and external tests"
+}

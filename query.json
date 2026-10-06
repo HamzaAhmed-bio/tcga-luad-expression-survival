@@ -1,0 +1,46 @@
+{
+  "format": "JSON",
+  "filters": {
+    "content": [
+      {
+        "content": {
+          "value": [
+            "TCGA-LUAD"
+          ],
+          "field": "cases.project.project_id"
+        },
+        "op": "in"
+      },
+      {
+        "content": {
+          "value": [
+            "Gene Expression Quantification"
+          ],
+          "field": "data_type"
+        },
+        "op": "in"
+      },
+      {
+        "content": {
+          "value": [
+            "STAR - Counts"
+          ],
+          "field": "analysis.workflow_type"
+        },
+        "op": "in"
+      },
+      {
+        "content": {
+          "value": [
+            "open"
+          ],
+          "field": "access"
+        },
+        "op": "in"
+      }
+    ],
+    "op": "and"
+  },
+  "fields": "file_id,file_name,file_size,md5sum,analysis.workflow_type,cases.case_id,cases.submitter_id,cases.samples.sample_id,cases.samples.submitter_id,cases.samples.sample_type",
+  "size": 10000
+}

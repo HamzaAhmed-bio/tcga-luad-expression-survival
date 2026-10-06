@@ -1,0 +1,14 @@
+{
+  "inventory_files": 601,
+  "selected_files": 546,
+  "paired_patients": 50,
+  "primary_tumors": 496,
+  "exclusions": {
+    "exclude_multiple_files_or_samples_per_patient_condition": 35,
+    "eligible": 552,
+    "exclude_quality_or_prior_treatment_annotation": 12,
+    "exclude_recurrent": 2
+  },
+  "download_bytes": 2313819943,
+  "selection_policy": "Exclude every ambiguous patient-condition group; no arbitrary aliquot selection; exclude flagged neoadjuvant, unacceptable treatment, qualification changes, or protocol deviation."
+}

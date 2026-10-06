@@ -1,0 +1,23 @@
+{
+  "identity_checks_passed": true,
+  "paired_patients": 50,
+  "same_plate_pairs": 39,
+  "different_plate_pairs": 11,
+  "source_centers": [
+    "07"
+  ],
+  "workflow_versions": [
+    "eecca6e2e475aab335bd7c365025ca0d0daa144b"
+  ],
+  "nonconverged_tested_genes": 61,
+  "candidate_sensitivity_direction_agreements": 20,
+  "candidate_sensitivity_tests": 20,
+  "candidate_sensitivity_fdr05": 20,
+  "survival_bh_independently_verified": true,
+  "tcga_fit_status": {
+    "ok": 10
+  },
+  "geo_fit_status": {
+    "ok": 10
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pairs": 50,
+  "genes_total": 60660,
+  "genes_filtered_in": 19026,
+  "genes_with_padj": 18965,
+  "significant_fdr05": 13821,
+  "significant_fdr05_lfc1": 4528,
+  "up": 6722,
+  "down": 7099,
+  "design_rank": 51,
+  "design_columns": 51,
+  "fit_diagnostics": {
+    "_genewise_converged": {
+      "True": 18995,
+      "False": 31
+    },
+    "_MAP_converged": {
+      "True": 18996,
+      "False": 30
+    },
+    "_LFC_converged": {
+      "True": 19025,
+      "False": 1
+    }
+  },
+  "candidates": [
+    "PYCR1",
+    "SLC6A4",
+    "RTKN2",
+    "FABP4",
+    "SERTM1",
+    "FHL1",
+    "AGER",
+    "RGCC",
+    "KANK3",
+    "RAMP2"
+  ]
+}

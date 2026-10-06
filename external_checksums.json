@@ -1,0 +1,22 @@
+[
+  {
+    "file": "GPL570.annot.gz",
+    "bytes": 8471521,
+    "sha256": "d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394"
+  },
+  {
+    "file": "GSE31210_series_matrix.txt.gz",
+    "bytes": 59914213,
+    "sha256": "6d74024711fcb64ce6a6db3565682045e140b60ecdc8c214302e25b8f92847fb"
+  },
+  {
+    "file": "MSigDB_Hallmark_2020.gmt",
+    "bytes": 44235,
+    "sha256": "4275592957a1587652092bb398cf77216fde5b8daa2aedaa0e016f7d10bbdb81"
+  },
+  {
+    "file": "TCGA-CDR-SupplementalTableS1.xlsx",
+    "bytes": 2945129,
+    "sha256": "ea594c0fbb6731477c7ac511fab449ca9c38b0d42d269591ed9f5c4090e75a5a"
+  }
+]

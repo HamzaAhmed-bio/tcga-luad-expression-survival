@@ -1,0 +1,13 @@
+{
+  "size": 1000,
+  "filters": {
+    "content": {
+      "field": "project.project_id",
+      "value": [
+        "TCGA-LUAD"
+      ]
+    },
+    "op": "in"
+  },
+  "expand": "demographic,diagnoses,diagnoses.follow_ups,exposures,annotations"
+}

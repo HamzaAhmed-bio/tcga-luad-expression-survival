@@ -1,0 +1,11 @@
+cohort,gene,n,events,HR,p,analysis
+TCGA,PYCR1,407,144,1.0358389654725477,0.6856627037568237,Exclude all annotation-positive patients; original expression scaling
+TCGA,SLC6A4,407,144,0.8333910311436848,0.08177711246001775,Exclude all annotation-positive patients; original expression scaling
+TCGA,RTKN2,407,144,0.8977211480328074,0.21179565831249375,Exclude all annotation-positive patients; original expression scaling
+TCGA,FABP4,407,144,0.9725785691852916,0.7442841265020415,Exclude all annotation-positive patients; original expression scaling
+TCGA,SERTM1,407,144,0.9070674275540472,0.2933681785487757,Exclude all annotation-positive patients; original expression scaling
+TCGA,FHL1,407,144,0.8880791403896693,0.18732474071758498,Exclude all annotation-positive patients; original expression scaling
+TCGA,AGER,407,144,0.8187582625430012,0.021308007485442253,Exclude all annotation-positive patients; original expression scaling
+TCGA,RGCC,407,144,0.954407491504355,0.5763168086052224,Exclude all annotation-positive patients; original expression scaling
+TCGA,KANK3,407,144,0.9043012119417088,0.27822300210405837,Exclude all annotation-positive patients; original expression scaling
+TCGA,RAMP2,407,144,0.8979338773635431,0.21548092102893432,Exclude all annotation-positive patients; original expression scaling

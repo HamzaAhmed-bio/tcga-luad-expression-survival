@@ -1,0 +1,23 @@
+{
+  "retrieved_utc": "2026-10-06T01:01:50.4241053Z",
+  "files": 601,
+  "patients": 518,
+  "sample_types": [
+    {
+      "Name": "Primary Tumor",
+      "Count": 540
+    },
+    {
+      "Name": "Recurrent Tumor",
+      "Count": 2
+    },
+    {
+      "Name": "Solid Tissue Normal",
+      "Count": 59
+    }
+  ],
+  "paired_patients": 58,
+  "duplicate_sample_groups": 11,
+  "total_bytes": 2546560815.0,
+  "complete": true
+}
